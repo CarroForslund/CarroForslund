@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @CarroForslund
 - 👀  I’m interested in UX/UI, fullstack JavaScript and WordPress development
-- 🌱  I’m currently learning how to program with WebRTC (plus the Greek language and how to play a ukulele)
-- 💞️  Except web development I ride my horses, scuba dive and create things
+- 🌱  I’m currently learning Greek
+- 💞️  Except web development I ride my horses, scuba dive and travel as often as possible
 - 📫  [hello@codingcaroline.com](mailto:hello@codingcaroline.com)
 <!---
 - 💞️ I’m looking to collaborate on ... 
