@@ -1,9 +1,9 @@
 - 👋  Hi, I’m @CarroForslund
-- 👀  I’m interested in UX/UI, full-stack JavaScript and WordPress development
-- 🌱  I’m currently learning Greek and Gatsby
-- 💞️  Except web development I help stray cats, ride my horses, scuba dive and travel as often as possible
-<!---
+- 👀  I’m interested in UX/UI, full-stack JavaScript, and specialized in WordPress development
+- 🌱  I’m currently learning React and TypeScript
+- 💞️  Except for web development I love animals, nature, exploring new places and much much more
 - 📫  [hello@codingcaroline.com](mailto:hello@codingcaroline.com)
+<!---
 - 💞️ I’m looking to collaborate on ... 
 --->
 
